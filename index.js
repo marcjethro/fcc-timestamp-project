@@ -19,12 +19,9 @@ app.get("/", function (req, res) {
   res.sendFile(__dirname + '/views/index.html');
 });
 
-
 app.get("/api/:date?", (req, res) => {
   res.json({error: "Invalid Date"});
 });
-
-
 
 // listen for requests :)
 var listener = app.listen(process.env.PORT, function () {
