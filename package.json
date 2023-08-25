@@ -13,13 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "https://github.com/marcjethro/fcc-timestamp-project.git"
   },
-  "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
-  },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "author": "marcjethro",
   "keywords": [
     "node",
     "express",
